@@ -3,6 +3,6 @@
         poly/user {:local/root "../../components/user"}
         poly/cli  {:local/root "../../bases/cli"}}
 
- :aliases {:test {:extra-paths []
+ :aliases {:test {:extra-paths ["test"]
                   :extra-deps  {}}
            :uberjar {:main se.example.cli.core}}}

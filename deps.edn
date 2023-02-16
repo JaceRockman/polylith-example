@@ -5,7 +5,8 @@
                                poly/cli {:local/root "bases/cli"}}}
 
             :test {:extra-paths ["components/user/test"
-                                 "bases/cli/test"]}
+                                 "bases/cli/test"
+                                 "projects/command-line/test"]}
 
             :poly {:main-opts ["-m" "polylith.clj.core.poly-cli.core"]
                    :extra-deps {polyfy/polylith
