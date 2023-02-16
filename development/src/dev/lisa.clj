@@ -1,3 +1,4 @@
-(ns dev.lisa)
+(ns dev.lisa
+  (:require [se.example.user.interface :as user]))
 
-(+ 1 2 3)
+(user/hello "Lisa")
