@@ -1,4 +1,4 @@
-<img src="logo.png" width="30%" alt="Polylith" id="logo">
+<p>This is a run through of the polylith example exercise to help me better understand the framework. The exercise can be found here: https://polylith.gitbook.io/poly</p>
 
 The Polylith documentation can be found here:
 
@@ -7,7 +7,3 @@ The Polylith documentation can be found here:
 - The [RealWorld example app documentation](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
 
 You can also get in touch with the Polylith Team on [Slack](https://clojurians.slack.com/archives/C013B7MQHJQ).
-
-<h1>example</h1>
-
-<p>Add your workspace documentation here...</p>
